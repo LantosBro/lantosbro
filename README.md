@@ -1,4 +1,4 @@
-Hi 👋 My name is Malik aka Lantos
+Hi 👋 I'm Lantos
 =================================
 
 PHP Developer and System Administrator
