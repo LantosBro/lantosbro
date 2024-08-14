@@ -7,7 +7,7 @@ PHP Developer and System Administrator
 I got interested in IT in April 2017. I started with web development, loved the Back-End. A little later, I became interested in system administration and DevOps.
 
 * ✉️  You can contact me at [me@lantos.in](mailto:me@lantos.in)
-* 🚀  I'm currently working on [DigitalWand](http://digitalwand.ru/)
+* 🚀  I'm currently working on [Tilda](https://tilda.cc/)
 * 🧠  I'm learning a new framework and Go
 * 🤝  I'm open to collaborating on Interesting projects
 
